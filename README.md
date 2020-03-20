@@ -1,4 +1,4 @@
-# Picture Poetry: Fullstack MERN
+# Perseverance: Programmatic Rendering
 
 ## Overview
 
